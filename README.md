@@ -46,10 +46,10 @@ Rust is ~7x times faster
 
 #Tech Stack
 Python
-pandas  
- pyarrow
-psutil
+    pandas  
+    pyarrow
+    psutil
 Rust
-Polars (Lazy API)
-glob
-anyhow
+    Polars (Lazy API)
+    glob
+    anyhow
